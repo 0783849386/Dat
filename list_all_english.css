@@ -1,0 +1,31 @@
+.main {
+	display: flex;
+	flex-direction: column;
+	width: 90%;
+}
+
+.main .list-content {
+	overflow: scroll;
+	flex-grow: 1;
+}
+.main .list-content div{
+	display: flex;
+	padding: 10px;
+	border: 1px solid black;
+	flex-grow: 1;
+}
+.main .list-word{
+	padding: 0 10px 0 10px;
+	background-color: #0095ff73;
+	border: 1px solid black;
+	font-size: 25px;
+}
+.main .list-btn{
+	background-color: #ffb100;
+}
+.main .list-btn-learned{
+	background-color: #fb00ff4d;
+}
+.main .btn-delete{
+	background-color: #fb00ff4d;
+}

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>My Web</title>
+	<link rel="stylesheet" type="text/css" href="layout.css">
+	<link rel="stylesheet" type="text/css" href="list_all_english.css">
+	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+	<header>
+		<h1>My website</h1>
+	</header>
+	<nav>
+		<a class='home' href="index.html">Home</a>
+		<a class='new' href="#">New</a>
+		<a class='contact'href="#">COntact</a>
+		<a class='tutorial' href="#">Tutorial</a>
+		<a class='logn-in' href="#">logn-in</a>
+	</nav>
+	<section >
+		<div class='side-bar'>
+			<a href="list_all_english.html" class='list-all'>Tất cả từ vựng</a>
+			<a href="list_learned.html" class='list-learned'>Từ vựng đã học</a>
+			<a href="list_learning.html" class="'list-learning">Từ vừng đang học</a>
+		</div>
+		<div class='main'>
+			<h2>Danh sách từ vựng đã học</h2>
+			<div class='list-content' id="list-content"></div>
+		</div>
+	</section>
+	<footer>
+		Vi Văn Đạt
+	</footer>
+	<script type="text/javascript" src='list_learned.js'></script>
+</body>
+</html>

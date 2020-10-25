@@ -1,0 +1,81 @@
+
+section .main{
+	display: flex;
+	flex-direction: column;
+	font-size: 20px;
+	justify-content: center;
+	align-items: center;
+	height: 300px;
+	width: 80%;
+}
+section .main .input-start{
+	margin-top: 20px;
+	width: 70%;
+	height: 40px;
+	text-align: center;
+	background-color: #A7C8E7;
+	border: 1px solid;
+}
+section .main .content-box{
+	width: 70%;
+	height: 40%;
+	padding: 10px;
+	background-color: white;
+	text-align: center;
+	border: 1px solid black;
+	overflow-wrap: break-word;
+	border-radius: 10px;
+}
+section .main #input-keybroad{
+	font-size: 30px;
+	width: 50%;
+	height: 90%;
+}
+.main .content-box span {
+	display: inline-block;
+	position: relative;
+	padding: 5px;
+}
+section .tooltip {
+	visibility: hidden;
+  	width: 100px;
+ 	background-color: black;
+ 	color: #fff;
+ 	text-align: center;
+ 	border-radius: 6px;
+ 	padding: 5px 0;
+  	position: absolute;
+  	z-index: 1;
+  	left: 50%;
+  	margin-left: -60px;
+  	bottom: 100%;
+  	font-size: 16px;
+  	
+}
+section .tooltip::after {
+   content: "";
+   position: absolute;
+   top: 100%;
+   left: 50%;
+   margin-left: -5px;
+   border-width: 5px;
+   border-style: solid;
+   border-color: black transparent transparent transparent;
+}
+
+section span:hover .tooltip {
+	visibility: visible;
+}
+.time-play{
+	display: inline-block;
+	font-size: 30px;
+	width: 7%;
+	background-color: #3c4d5c;
+	padding-top: 2px;
+	border: 1px solid black;
+}
+.btn-start {
+	font-size: 30px;
+	height: 97%;
+	background-color: #428bca;
+}
