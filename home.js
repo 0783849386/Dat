@@ -1,6 +1,6 @@
 
-const url1 = 'http://localhost:3000/tuDien';
-const url2 = 'http://localhost:3000/daHoc';
+const url1 = 'https://0783849386.github.io/Dat/tuDien.json';
+const url2 = 'https://0783849386.github.io/Dat/daHoc.json';
 
 var count = 0;
 let count_word_true = 0;
