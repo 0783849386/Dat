@@ -1,5 +1,5 @@
-var url1 = 'http://localhost:3000/tuDien';
-var url2 = 'http://localhost:3000/daHoc';
+var url1 = 'https://0783849386.github.io/Dat/tuDien.json';
+var url2 = 'https://0783849386.github.io/Dat/daHoc.json';
 
  function loadData(url){
 	axios.all([

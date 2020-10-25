@@ -1,5 +1,5 @@
 
-var url = 'http://localhost:3000/tuDien';
+var url = 'https://0783849386.github.io/Dat/tuDien.json';
 async function loadData(){
 	axios.get(url).then(function(res){
 	var items = res.data;

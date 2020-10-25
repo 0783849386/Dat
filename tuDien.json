@@ -1,0 +1,100 @@
+{
+      "id": 1,
+      "english": "observe",
+      "tiengViet": "quan sát"
+    },
+    {
+      "id": 2,
+      "english": "increment",
+      "tiengViet": "tăng"
+    },
+    {
+      "id": 3,
+      "english": "whenever",
+      "tiengViet": "bất cứ khi nào"
+    },
+    {
+      "id": 4,
+      "english": "indicate",
+      "tiengViet": "chỉ"
+    },
+    {
+      "id": 5,
+      "english": "boxse",
+      "tiengViet": "hộp"
+    },
+    {
+      "id": 6,
+      "english": "flag",
+      "tiengViet": "cờ"
+    },
+    {
+      "id": 7,
+      "english": "unconditionally",
+      "tiengViet": "vô điều kiện"
+    },
+    {
+      "id": 8,
+      "english": "logical",
+      "tiengViet": "logic"
+    },
+    {
+      "id": 9,
+      "english": "perspective",
+      "tiengViet": "quan điểm, phối cảnh"
+    },
+    {
+      "id": 10,
+      "english": "jump",
+      "tiengViet": "nhảy"
+    },
+    {
+      "id": 11,
+      "english": "hint",
+      "tiengViet": "gợi ý"
+    },
+    {
+      "id": 12,
+      "english": "decrements",
+      "tiengViet": "suy giảm"
+    },
+    {
+      "id": 13,
+      "english": "underflow",
+      "tiengViet": "dòng chảy bên dưới"
+    },
+    {
+      "id": 14,
+      "english": "manually",
+      "tiengViet": "thủ công"
+    },
+    {
+      "id": 15,
+      "english": "greater",
+      "tiengViet": "lớn"
+    },
+    {
+      "id": 16,
+      "english": "subtract",
+      "tiengViet": " trừ"
+    },
+    {
+      "id": 17,
+      "english": "less",
+      "tiengViet": "ít"
+    },
+    {
+      "id": 18,
+      "english": "statement",
+      "tiengViet": "câu lệnh"
+    },
+    {
+      "id": 19,
+      "english": "objectives",
+      "tiengViet": "mục tiêu"
+    },
+    {
+      "id": 20,
+      "english": "indirect",
+      "tiengViet": "gián tiếp"
+    }
